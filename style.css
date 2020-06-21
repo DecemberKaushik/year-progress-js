@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+  height:100vh;
+  background-color: #51B4C5;
+}
+
+.page-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+  height:100vh;
+}
+
+.demo-card-wide {
+  display: flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content: center;
+}
+
+.dark-mode {
+  background-color: #121212; 
+  color:#FFFFFF;
+}
+
+.darkToggle {
+  position: fixed;
+  display: block;
+  right: 0;
+  bottom: 0;
+  margin-right: 40px;
+  margin-bottom: 40px;
+  z-index: 900
+}
