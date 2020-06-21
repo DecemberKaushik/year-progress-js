@@ -1,0 +1,18 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "TimeDown",
+  "scope": "/",
+  "display": "standalone",
+  "start_url": "https://timedown.vercel.app/",
+  "short_name": "TimeDown",
+  "theme_color": "transparent",
+  "description": "",
+  "orientation": "portrait",
+  "background_color": "transparent",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": [],
+  "url": "https://timedown.vercel.app/",
+  "screenshots": []
+}
